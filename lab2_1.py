@@ -1,0 +1,16 @@
+from colorama import init
+from colorama import Back
+init(autoreset=True)
+print(Back.GREEN + '                                      ')
+print(Back.GREEN + '                                      ')
+print(Back.GREEN + '               '+Back.RED+'    '+Back.GREEN + '                   ')
+print(Back.GREEN + '              '+Back.RED+'      '+Back.GREEN + '                  ')
+print(Back.GREEN + '             '+Back.RED+'        '+Back.GREEN + '                 ')
+print(Back.GREEN + '            '+Back.RED+'          '+Back.GREEN + '                ')
+print(Back.GREEN + '           '+Back.RED+'            '+Back.GREEN + '               ')
+print(Back.GREEN + '            '+Back.RED+'          '+Back.GREEN + '                ')
+print(Back.GREEN + '             '+Back.RED+'        '+Back.GREEN + '                 ')
+print(Back.GREEN + '              '+Back.RED+'      '+Back.GREEN + '                  ')
+print(Back.GREEN + '               '+Back.RED+'    '+Back.GREEN + '                   ')
+print(Back.GREEN + '                                      ')
+print(Back.GREEN + '                                      ')
